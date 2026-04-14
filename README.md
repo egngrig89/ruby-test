@@ -10,7 +10,7 @@ Jednoduchá webová aplikace, která řeší "problém" s firemním dresscodem (
 - **Frontend:** Dynamická aktualizace obsahu bez reloadu stránky.
 
 ## 💻 Tech Stack
-- **Ruby 3.x & Rails 7:** Využití MVC architektury a metod jako `.sample` pro čistý a čitelný kód.
+- **Ruby & Rails:** Využití MVC architektury a metod jako `.sample` pro čistý a čitelný kód.
 - **Stimulus JS:** Implementace "nutného minima" JavaScriptu pro asynchronní komunikaci s backendem (Fetch API).
 - **Importmaps:** Správa JS bez Node.js balastu, v souladu s moderními Rails standardy.
 - **GitHub Codespaces:** Kompletní vývoj v cloudovém prostředí.
