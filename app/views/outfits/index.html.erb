@@ -1,0 +1,18 @@
+<div style="text-align: center; margin-top: 50px; font-family: sans-serif;" 
+     data-controller="dresscode">
+  
+  <h1 style="color: #2f3542;">Timepress Dresscode Generator</h1>
+  
+  <div style="background: #f1f2f6; padding: 20px; border-radius: 15px; display: inline-block; min-width: 300px; margin-bottom: 20px;">
+    <p data-dresscode-target="output" style="font-size: 1.5rem; font-weight: bold; color: #2f3542;">
+      <%= @suggestion %>
+    </p>
+  </div>
+
+  <br>
+
+  <button data-action="click->dresscode#getNew" 
+          style="padding: 15px 30px; cursor: pointer; background: #ff4757; color: white; border: none; border-radius: 8px; font-size: 1rem; font-weight: bold; transition: 0.3s;">
+    Tohle triko je v koši na prádlo, zkus jiný!
+  </button>
+</div>
