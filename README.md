@@ -1,3 +1,5 @@
+![Ruby_test](https://github.com/user-attachments/assets/76292ca8-91b7-4cc3-a4b5-89b430f2a5a6)
+
 # Dresscode Randomizer (RoR Demo)
 
 Technické demo vytvořené jako reakce na nábor Timepressu. Cílem bylo demonstrovat schopnost přechodu z Pythonu na Ruby on Rails a pochopení moderního Rails stacku.
